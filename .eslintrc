@@ -13,7 +13,7 @@ settings:
 
 env:
   browser: true
-  mocha: true
+  jest: true
 
 rules:
   arrow-body-style: 0
