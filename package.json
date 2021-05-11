@@ -22,7 +22,7 @@
     "test:watch": "nodemon -w src -w test --exec 'yarn run test'"
   },
   "dependencies": {
-    "lodash": "^4.17.12"
+    "lodash": "^4.17.21"
   },
   "devDependencies": {
     "@types/jest": "^25.2.1",
